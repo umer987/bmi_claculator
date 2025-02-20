@@ -1,4 +1,4 @@
-//let age = document.querySelector("#aag")
+let age = document.querySelector("#aag")
 let height = document.querySelector("#heig")
 let weight = document.querySelector("#weig")
 let calculate = document.querySelector("#butt")
